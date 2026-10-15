@@ -1,0 +1,25 @@
+{
+ "tasks": [
+ {
+ "id": "1",
+ "title": "Купить хлеб",
+ "description": "Зайти в магазин у дома",
+ "status": false,
+ "priority": "normal"
+ },
+ {
+ "id": "2",
+ "title": "Сделать ДЗ по React",
+ "description": "Хуки и формы",
+ "status": false,
+ "priority": "high"
+ },
+ {
+ "id": "3",
+ "title": "Посмотреть сериал",
+ "description": "1 серия",
+ "status": true,
+ "priority": "low"
+ }
+ ]
+}
